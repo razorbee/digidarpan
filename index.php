@@ -1044,9 +1044,15 @@ With integrated, end-to-end digital signage solution for customer, DigiDarpan is
 Razorbee’s  Digital signage solution is leading the way to tell your messages and brand  from  medium to new levels.
 </p>
 </div>
-<div class="col-lg-8 col-md-12">
-<img src="img/dh1.jpg" class="img-rounded darpan1" style="background-size:cover; !important;background-repeat:no-repeat !important;width:100%;margin-top: 55px;">
+
+
+<div class="col-lg-8 col-md-12 animatedParent">
+<img src="tv/tv8.png" class="tvimg">
+<div class="animatedParent" id="vdo">
+<iframe class="animated fadeIn slower delay-300 go" width="560" height="315" src="https://www.youtube.com/embed/8qFAcfDTc88?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 </div>
+</div>
+
 </div>
 <div class="row hidden-xs hidden-sm hidden-md">
 <div class="col-md-8">
