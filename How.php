@@ -64,7 +64,7 @@ $(function () {
 	$pos = strrpos($_SERVER['HTTP_HOST'], "digidarpan.com");
 
 	if ($pos === false) { // note: three equal signs
-		$url = $protocol . $_SERVER['HTTP_HOST']."/Digi";
+		$url = $protocol . $_SERVER['HTTP_HOST']."/razorbee/digidarpan/";
 	}else{
 		$url = $protocol . $_SERVER['HTTP_HOST'];
 	} // Outputs: Full URL
@@ -91,8 +91,8 @@ $(function () {
         <a class="dropdown-toggle" data-toggle="dropdown" href="#">MORE
         <span class="caret"></span></a>
         <ul class="dropdown-menu dm" style="background-color:#2e3192;">
-          <li class="active"><a href="How.php" style="height: 50px;">How it Works</a></li>
-          <li class="active"><a href="Why.php" style="height: 50px;">Where its Used</a></li>
+          <li class="active"><a href="how.php" style="height: 50px;">How it Works</a></li>
+          <li class="active"><a href="why.php" style="height: 50px;">Where its Used</a></li>
           <li class="active"><a href="http://admin.digidarpan.com/login" style="height: 50px;">Sign-in/Login</a></li>
 					<li class="active"><a href="http://admin.digidarpan.com/signup" style="height: 50px;">Sign-up</a></li>
         </ul>

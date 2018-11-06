@@ -1,31 +1,32 @@
 <!DOCTYPE html>
 <!-- saved from url=(0147)https://www.themarlincompany.com/workplace-digital-signage-solution2?_vsrefdom=aw_ppc&gclid=EAIaIQobChMIkoSNlJSg1wIVRUOGCh3SggaMEAAYASAAEgKn8PD_BwE -->
-<html class=" gumby-no-touch js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" itemscope="" itemtype="http://schema.org/Product"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-
-	    <title>DigiDarpan DigitalSignage Solutions</title>
-	    <meta name="Digital Signage" content="Digital Signage Solutions designed for the Workplace by Razorbee Online Solutions Pvt Ltd">
-	    <meta name="Digital Signage" content="">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-		  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-		  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-		<!-- Facebook Metadata /-->
-				<link rel="stylesheet" href="css/templatemo-style.css">
-		  <link rel="shortcut icon" href="img/favicon.ico">
-  
-  <link rel="stylesheet" href="asset/gumby.css">
-  <script src="./asset/modernizr-2.6.2.min.js.download"></script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109331748-1"></script>
-<script>
+<html class=" gumby-no-touch js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" itemscope="" itemtype="http://schema.org/Product">
+	<!--
+	<![endif]-->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<title>DigiDarpan DigitalSignage Solutions</title>
+			<meta name="Digital Signage" content="Digital Signage Solutions designed for the Workplace by Razorbee Online Solutions Pvt Ltd">
+				<meta name="Digital Signage" content="">
+					<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+						<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+							<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+							<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+							<!-- Facebook Metadata /-->
+							<link rel="stylesheet" href="css/templatemo-style.css">
+								<link rel="shortcut icon" href="img/favicon.ico">
+									<link rel="stylesheet" href="asset/gumby.css">
+										<script src="./asset/modernizr-2.6.2.min.js.download"></script>
+										<!-- Global site tag (gtag.js) - Google Analytics -->
+										<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109331748-1"></script>
+										<script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'UA-109331748-1');
 </script>
-<script>
+										<script>
 $(function () {
 
  $('.navbar-collapse ul li a').on('click', function() {
@@ -34,7 +35,7 @@ $(function () {
  });
 });
   </script>
-<script>
+										<script>
 $(function(){
 
 	  $('.navbar ul li a').on('click', function() {
@@ -49,15 +50,21 @@ $(function(){
 
     });
 </script>
-<script>
+										<script>
 $(function(){
 		 $('.navbar-collapse ul li a').click(function()
 		 {
 			 $(".navbar-collapse").collapse('hide');
 		 });
-	 });
+   });
+   
+
+
+var vid = document.getElementById("myvideo");
+vid.autoplay = true;
+vid.load();
 </script>
-	<!-- <script>
+										<!-- <script>
  function closeFunction()
  {
 		 document.getElementById('bs-example-navbar-collapse-1').style.display = "none";
@@ -67,61 +74,72 @@ $(function(){
 	 document.getElementById('bs-example-navbar-collapse-1').style.display = "block";
  }
 </script>-->
-<body class="testimonials-landing about_landing about_wrapper marlin-product-landing-page digital-signage industry-landing-page" style="">
-<nav class="navbar navbar-default templatemo-nav navbar-fixed-top" role="navigation">
-			<div class="container">
-				<div class="navbar-header">
-					<button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"  >
-						<span class="icon icon-bar"></span>
-						<span class="icon icon-bar"></span>
-						<span class="icon icon-bar"></span>
-					</button>
-					<a href="#" class="navbar-brand">  <a href="#" title="Digital Signage by Razorbee Online Solutions Pvt Ltd">
-	            <img class="logo" alt="DigitalSignage/DigiDarpan" src="img/DG1.png" >
-	          </a></a>
-				</div>
-				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-					<ul class="nav navbar-nav navbar-right" style="margin-right:-175px;">
-						<li class="scroll active"><a href="#top">HOME</a></li>
-						<li class="scroll"><a href="#Why_DigiDarpan" >Why DigiDarpan</a></li>
-						<li class="scroll"><a href="#contact" >CONTACT</a></li>
-						<li class="dropdown">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="#">MORE
-        <span class="caret"></span></a>
-        <ul class="dropdown-menu dm">
-          <li class="active"><a href="How.php" style="height: 50px;">How it Works</a></li>
-          <li class="active"><a href="Why.php" style="height: 50px;">Where its Used</a></li>
-          <li class="active"><a href="http://admin.digidarpan.com/login" style="height: 50px;">Sign-in/Login</a></li>
-					<li class="active"><a href="http://admin.digidarpan.com/signup" style="height: 50px;">Sign-up</a></li>
-        </ul>
-      </li>
-						<li class="last-three">
-
-	            <div class="field">
-
-	              <div style="display:none;">
-	<label>Please do not fill-in this field <input type="text" name="field_cdb8be699440776ca033fe0cea714e79e3e2ec89" value=""></label>
-	</div>
-
-	            </div>
-
-	            <div class="callus" style="margin-top: 15px;border-radius: 46px;">
-	              <a href="tel:9148688883" class="switch" gumby-trigger=".callus | .search.input.switch">
-	                <i class="icon-phone"></i>
-	                <span>+91-9148688883</span>
-	              </a>
-	            </div>
-
-
-						</li>
-					</ul>
-				</div>
-			</div>
-		</nav>
-
-
-
-  <style>
+										<body class="testimonials-landing about_landing about_wrapper marlin-product-landing-page digital-signage industry-landing-page" style="">
+											<nav class="navbar navbar-default templatemo-nav navbar-fixed-top" role="navigation">
+												<div class="container">
+													<div class="navbar-header">
+														<button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"  >
+															<span class="icon icon-bar"></span>
+															<span class="icon icon-bar"></span>
+															<span class="icon icon-bar"></span>
+														</button>
+														<a href="#" class="navbar-brand">
+															<a href="#" title="Digital Signage by Razorbee Online Solutions Pvt Ltd">
+																<img class="logo" alt="DigitalSignage/DigiDarpan" src="img/DG1.png" >
+																</a>
+															</a>
+														</div>
+														<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+															<ul class="nav navbar-nav navbar-right" style="margin-right:-175px;">
+																<li class="scroll active">
+																	<a href="#top">HOME</a>
+																</li>
+																<li class="scroll">
+																	<a href="#Why_DigiDarpan" >Why DigiDarpan</a>
+																</li>
+																<li class="scroll">
+																	<a href="#contact" >CONTACT</a>
+																</li>
+																<li class="dropdown">
+																	<a class="dropdown-toggle" data-toggle="dropdown" href="#">MORE
+        
+																		<span class="caret"></span>
+																	</a>
+																	<ul class="dropdown-menu dm">
+																		<li class="active">
+																			<a href="how.php" style="height: 50px;">How it Works</a>
+																		</li>
+																		<li class="active">
+																			<a href="why.php" style="height: 50px;">Where its Used</a>
+																		</li>
+																		<li class="active">
+																			<a href="http://admin.digidarpan.com/login" style="height: 50px;">Sign-in/Login</a>
+																		</li>
+																		<li class="active">
+																			<a href="http://admin.digidarpan.com/signup" style="height: 50px;">Sign-up</a>
+																		</li>
+																	</ul>
+																</li>
+																<li class="last-three">
+																	<div class="field">
+																		<div style="display:none;">
+																			<label>Please do not fill-in this field 
+																				<input type="text" name="field_cdb8be699440776ca033fe0cea714e79e3e2ec89" value="">
+																				</label>
+																			</div>
+																		</div>
+																		<div class="callus" style="margin-top: 15px;border-radius: 46px;">
+																			<a href="tel:9148688883" class="switch" gumby-trigger=".callus | .search.input.switch">
+																				<i class="icon-phone"></i>
+																				<span>+91-9148688883</span>
+																			</a>
+																		</div>
+																	</li>
+																</ul>
+															</div>
+														</div>
+													</nav>
+													<style>
 	.navbar-collapse  li.active a {
 	    color:black !important;
 			background-color: #6494ed !important;
@@ -863,55 +881,58 @@ body{
 .carousel-fade .carousel-control {
   z-index: 2;
 }
+.video_bg{
+  background-image:url("images/tv8.png");
+  width:8sss00px;
+  background-repeat: no-repeat;
+  padding:50px;
+      background-size: cover;
+}
+.video_bg video{
+  width:100%;
+}
   </style>
-	<div class="container" id="top">
-	  <div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
-
-	    <ol class="carousel-indicators ci">
-	      <li data-target="#myCarousel" data-slide-to="0" class="active" ></li>
-	      <li data-target="#myCarousel" data-slide-to="1"></li>
-	      <li data-target="#myCarousel" data-slide-to="2"></li>
-	    </ol>
-
-
-	    <div class="carousel-inner cin">
-
-	      <div class="item active">
-	          <img src="img/DigitalSignage2.jpg" alt="Los Angeles" class="img1" >
-	        <div class="carousel-caption cc1" >
-	          <h5>Digital Signage in Restaurant</h3>
-
-	        </div>
-	      </div>
-
-	      <div class="item">
-	       <img src="img/DGres.jpg" alt="Los Angeles" class="img2">
-	        <div class="carousel-caption cc1" >
-	          <h5>Digital Signage in Food-Zones.</h3>
-	        </div>
-	      </div>
-
-	      <div class="item">
-	        <img src="img/HospitalDG.jpg" alt="Los Angeles" class="img3">
-	        <div class="carousel-caption cc1" >
-	          <h5>Digital Signage in Hospitals</h3>
-	        </div>
-	      </div>
-
-	    </div>
-
-	    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-		<span class="glyphicon glyphicon-chevron-right cr"></span>
-	      <span class="sr-only">Next</span>
-	    </a>
-	    <a class="right carousel-control" href="#myCarousel" data-slide="next">
-	      <span class="glyphicon glyphicon-chevron-left cl"></span>
-	      <span class="sr-only">Previous</span>
-	    </a>
-	  </div>
-	</div>
-
-<style>
+													<div class="container" id="top">
+														<div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+															<ol class="carousel-indicators ci">
+																<li data-target="#myCarousel" data-slide-to="0" class="active" ></li>
+																<li data-target="#myCarousel" data-slide-to="1"></li>
+																<li data-target="#myCarousel" data-slide-to="2"></li>
+															</ol>
+															<div class="carousel-inner cin">
+																<div class="item active">
+																	<img src="img/DigitalSignage2.jpg" alt="Los Angeles" class="img1" >
+																		<div class="carousel-caption cc1" >
+																			<h5>Digital Signage in Restaurant
+																			</h3>
+																		</div>
+																	</div>
+																	<div class="item">
+																		<img src="img/DGres.jpg" alt="Los Angeles" class="img2">
+																			<div class="carousel-caption cc1" >
+																				<h5>Digital Signage in Food-Zones.
+																				</h3>
+																			</div>
+																		</div>
+																		<div class="item">
+																			<img src="img/HospitalDG.jpg" alt="Los Angeles" class="img3">
+																				<div class="carousel-caption cc1" >
+																					<h5>Digital Signage in Hospitals
+																					</h3>
+																				</div>
+																			</div>
+																		</div>
+																		<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+																			<span class="glyphicon glyphicon-chevron-right cr"></span>
+																			<span class="sr-only">Next</span>
+																		</a>
+																		<a class="right carousel-control" href="#myCarousel" data-slide="next">
+																			<span class="glyphicon glyphicon-chevron-left cl"></span>
+																			<span class="sr-only">Previous</span>
+																		</a>
+																	</div>
+																</div>
+																<style>
 .benefits .row{
 	margin-right: 0px !important;
 }
@@ -1025,402 +1046,366 @@ pointer-events: none;
 }
 
 </style>
-		<section id="Why_DigiDarpan" style="background-color: #F5F6F9 !important;">
-		<div class="row" style="padding-top:40px;">
-			<h3 class="hidden-lg hidden-sm hidden-xs text-centre" style="font-size: 2.875rem">Why <strong>DigiDarpan?</strong></h3>
-		<div class="col-lg-4 col-md-12">
-		<h3 class="hidden-md" >Why <strong>DigiDarpan?</strong></h3>
-		<ol>
-		<p style="font-size:16px;text-align:left;padding-left:5px; padding-top:0px;" class="why">
+																<section id="Why_DigiDarpan" style="background-color: #F5F6F9 !important;">
+																	<div class="row" style="padding-top:40px;">
+																		<h3 class="hidden-lg hidden-sm hidden-xs text-centre" style="font-size: 2.875rem">Why 
+																			<strong>DigiDarpan?</strong>
+																		</h3>
+																		<div class="col-lg-4 col-md-12">
+																			<h3 class="hidden-md" >Why 
+																				<strong>DigiDarpan?</strong>
+																			</h3>
+																			<ol>
+																				<p style="font-size:16px;text-align:left;padding-left:5px; padding-top:0px;" class="why">
 			DigiDarpan is a complete digital signage solution.No matter which market you’re in, DigiDarpan is a powerful solution,used to increase brand awareness and build customer loyalty through eye-caching visual display experience.
 </p>
-<p style="font-size:16px;text-align:left;padding-left:5px;padding-top:15px;">
+																				<p style="font-size:16px;text-align:left;padding-left:5px;padding-top:15px;">
 Using DigiDarpan, it’s easy to create a digital signage solution that will impress your audience. No one connects your message to your target audience like DigiDarpan.
 </p>
-<p style="font-size:16px;text-align:left;padding-left:5px;padding-top:15px;">
+																				<p style="font-size:16px;text-align:left;padding-left:5px;padding-top:15px;">
 With integrated, end-to-end digital signage solution for customer, DigiDarpan is your single source provider.We provide device to eye-catching template and also with 24X7 customer support.
 </p>
-<p style="font-size:16px;text-align:left;padding-left:5px;">
+																				<p style="font-size:16px;text-align:left;padding-left:5px;">
 Razorbee’s  Digital signage solution is leading the way to tell your messages and brand  from  medium to new levels.
 </p>
-</div>
-
-
-<div class="col-lg-8 col-md-12 animatedParent">
-<img src="tv/tv8.png" class="tvimg">
-<div class="animatedParent" id="vdo">
-<iframe class="animated fadeIn slower delay-300 go" width="560" height="315" src="https://www.youtube.com/embed/8qFAcfDTc88?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-</div>
-</div>
-
-</div>
-<div class="row hidden-xs hidden-sm hidden-md">
-<div class="col-md-8">
-<img src="img/digital_signage-2.jpg" class="img-rounded darpan2" style="background-size:cover; !important;background-repeat:no-repeat !important;width:100%;margin-top: 0px;">
-</div>
-<div class="col-md-4">
-	<p style="font-size:16px;text-align:left;padding-left:20px;padding-top:50px;">
+																			</div>
+																			<div class="col-lg-8 col-md-12 animatedParent video_bg">
+                                          <video controls autoplay id="myvideo">
+                                            <source src='digidarpan.mp4' type="video/mp4">
+                                            Your browser does not support the video tag.
+                                          </video>																				
+																				</div>
+																			</div>
+																			<div class="row hidden-xs hidden-sm hidden-md">
+																				<div class="col-md-8">
+																					<img src="img/digital_signage-2.jpg" class="img-rounded darpan2" style="background-size:cover; !important;background-repeat:no-repeat !important;width:100%;margin-top: 0px;">
+																					</div>
+																					<div class="col-md-4">
+																						<p style="font-size:16px;text-align:left;padding-left:20px;padding-top:50px;">
 	At DigiDarpan, we design every Digital Signage Solution from the ground up, to meet your needs. Whether it's a single professional display network, encompassing hundreds of professional displays or interactive signage solution.
 	</p>
-	<p style="font-size:16px;text-align:left;padding-left:20px;padding-top:15px;">
+																						<p style="font-size:16px;text-align:left;padding-left:20px;padding-top:15px;">
 	Take engagement to a new level with DigiDarpan that reach audiences in many industries, including hospitality, healthcare, retail, entertainment, restaurant and school.
 	</p>
-<!--<h5 style="margin-top:35px;" class="hidden-lg hidden-md visible-sm"><strong>Value</strong></h5>
-<p class="hidden-lg hidden-md visible-sm visible-xs" style="font-size:13px;text-align:left;">Razorbee is a sincere company &nbsp;including a group of experienced developer and IT specialist with a straight forward vision. To maintain customer’s &nbsp;satisfaction and long-term relationship with them is our main vision that we always hold in hand when running the organisation.</p>
---></div>
-</div>
-<div class="row hidden-xs hidden-sm hidden-lg">
-<div class="col-md-12">
-	<p style="font-size:16px;text-align:left;padding-left:20px;padding-top:50px;">
+																						<!--<h5 style="margin-top:35px;" class="hidden-lg hidden-md visible-sm"><strong>Value</strong></h5><p class="hidden-lg hidden-md visible-sm visible-xs" style="font-size:13px;text-align:left;">Razorbee is a sincere company &nbsp;including a group of experienced developer and IT specialist with a straight forward vision. To maintain customer’s &nbsp;satisfaction and long-term relationship with them is our main vision that we always hold in hand when running the organisation.</p>
+-->
+																					</div>
+																				</div>
+																				<div class="row hidden-xs hidden-sm hidden-lg">
+																					<div class="col-md-12">
+																						<p style="font-size:16px;text-align:left;padding-left:20px;padding-top:50px;">
 	At DigiDarpan, we design every Digital Signage Solution from the ground up, to meet your needs. Whether it's a single professional display network, encompassing hundreds of professional displays or interactive signage solution.
 	</p>
-	<p style="font-size:16px;text-align:left;padding-left:20px;padding-top:15px;">
+																						<p style="font-size:16px;text-align:left;padding-left:20px;padding-top:15px;">
 	Take engagement to a new level with DigiDarpan that reach audiences in many industries, including hospitality, healthcare, retail, entertainment, restaurant and school.
 	</p>
-<!--<h5 style="margin-top:35px;" class="hidden-lg hidden-md visible-sm"><strong>Value</strong></h5>
-<p class="hidden-lg hidden-md visible-sm visible-xs" style="font-size:13px;text-align:left;">Razorbee is a sincere company &nbsp;including a group of experienced developer and IT specialist with a straight forward vision. To maintain customer’s &nbsp;satisfaction and long-term relationship with them is our main vision that we always hold in hand when running the organisation.</p>
---></div>
-<div class="col-md-12">
-<img src="img/digital_signage-2.jpg" class="img-rounded darpan2" style="background-size:cover; !important;background-repeat:no-repeat !important;width:100%;margin-top: 0px;">
-</div>
-</div>
-<div class="row hidden-lg hidden-md">
-
-<div class="col-md-4">
-	<p style="font-size:16px;text-align:left;padding-left:20px;padding-top:50px;">
+																						<!--<h5 style="margin-top:35px;" class="hidden-lg hidden-md visible-sm"><strong>Value</strong></h5><p class="hidden-lg hidden-md visible-sm visible-xs" style="font-size:13px;text-align:left;">Razorbee is a sincere company &nbsp;including a group of experienced developer and IT specialist with a straight forward vision. To maintain customer’s &nbsp;satisfaction and long-term relationship with them is our main vision that we always hold in hand when running the organisation.</p>
+-->
+																					</div>
+																					<div class="col-md-12">
+																						<img src="img/digital_signage-2.jpg" class="img-rounded darpan2" style="background-size:cover; !important;background-repeat:no-repeat !important;width:100%;margin-top: 0px;">
+																						</div>
+																					</div>
+																					<div class="row hidden-lg hidden-md">
+																						<div class="col-md-4">
+																							<p style="font-size:16px;text-align:left;padding-left:20px;padding-top:50px;">
 	At DigiDarpan, we design every Digital Signage Solution from the ground up, to meet your needs. Whether it's a single professional display network, encompassing hundreds of professional displays or interactive signage solution.
 	</p>
-	<p style="font-size:16px;text-align:left;padding-left:20px;padding-top:15px;">
+																							<p style="font-size:16px;text-align:left;padding-left:20px;padding-top:15px;">
 	Take engagement to a new level with DigiDarpan that reach audiences in many industries, including hospitality, healthcare, retail, entertainment, restaurant and school.
 	</p>
-<!--<h5 style="margin-top:35px;" class="hidden-lg hidden-md visible-sm"><strong>Value</strong></h5>
-<p class="hidden-lg hidden-md visible-sm visible-xs" style="font-size:13px;text-align:left;">Razorbee is a sincere company &nbsp;including a group of experienced developer and IT specialist with a straight forward vision. To maintain customer’s &nbsp;satisfaction and long-term relationship with them is our main vision that we always hold in hand when running the organisation.</p>
---></div>
-<div class="col-md-8">
-<img src="img/digital_signage-2.jpg" class="img-rounded" style="background-size:cover; !important;background-repeat:no-repeat !important;width:100%;margin-top: 0px;">
-</div>
-</div>
-		</section>
-  <section class="benefits">
-  <h3 class="text-center" style="margin-top:40px;margin-bottom:20px;" >The Benefits of Digital Signage</h3>
-  <div class="row" style="margin-left:-1.5%;">
-	<div class="col-md-4">
-    	<article class="benefits__item">
-          <div class="benefits__itemContainer">
-      			<img class="benefits__img img-rounded" src="img/Runtime.jpg" alt="DigitalSignage/DigiDarpan Features" title="Digital Signage by Razorbee Online Solutions Pvt Ltd Features">
-      	    <div class="benefits__copy">
-      	      <h3 class="benefits__heading">Minimizes perceived wait time..</h3>
-      	      <p style="font-size:16px;text-align:left;margin-top:-40px;margin-left:20px;" class="benefits__body bb">One of the best things you can do to improve customer experience is to keep them entertained. A digital screen gives them something to do-it’s a lot less annoying to wait in line if you’ve got something to watch. As a result, perceived wait time drops.</p>
-
-
-      	    </div>
-          </div>
-    		</article>
-			</div>
-			<div class="col-md-4">
-			<article class="benefits__item">
-          <div class="benefits__itemContainer">
-      			<img class="benefits__img img-rounded" src="img/TimeDigitalSignage.jpg" alt="DigitalSignage/DigiDarpan Features" title="Digital Signage by Razorbee Online Solutions Pvt Ltd Features">
-      	    <div class="benefits__copy">
-      	      <h3 class="benefits__heading">You can run relevant ads depending on the time of day or day of the week.</h3>
-      	      <p style="font-size:16px;text-align:left; margin-top:-40px; margin-left:20px;" class="benefits__body">Breakfast ads during breakfast if you’re a restaurant franchise, for example. Alternatively, if you have a retail clothing franchise, you might run ads featuring rain gear on rainy days and sunglasses on sunny ones.</p>
-
-
-      	    </div>
-          </div>
-    		</article>
-			</div>
-			<div class="col-md-4">
-			<article class="benefits__item">
-          <div class="benefits__itemContainer">
-      			<img class="benefits__img img-rounded" src="img/DigitalSignage5.jpg" alt="DigitalSignage/DigiDarpan Features" title="Digital Signage by Razorbee Online Solutions Pvt Ltd Features">
-      	    <div class="benefits__copy ">
-      	      <h5 class="benefits__heading">Promoting hospital services,Employee coordination and communication</h5>
-      	      <p style="font-size:16px;text-align:left;margin-top:-40px; margin-left:20px;" class="benefits__body">With a display network at the hands of every patient, visitor or medical attendant, it is a lot easier to inform them about the services offered in your organization, in particular when you can match the message to the location.</p>
-
-
-      	    </div>
-          </div>
-    		</article>
-			</div>
-	</div>
-  </section>
-
-
-
-	<header class="sect-head-container testimonials-lead-in">
-	    <div class="sect-head">
-        <div class="leadin__container">
-          <h2 class="leadinHeading">What customers are saying</h2>
-  		    <h4 class="leadinSubheading">
+																							<!--<h5 style="margin-top:35px;" class="hidden-lg hidden-md visible-sm"><strong>Value</strong></h5><p class="hidden-lg hidden-md visible-sm visible-xs" style="font-size:13px;text-align:left;">Razorbee is a sincere company &nbsp;including a group of experienced developer and IT specialist with a straight forward vision. To maintain customer’s &nbsp;satisfaction and long-term relationship with them is our main vision that we always hold in hand when running the organisation.</p>
+-->
+																						</div>
+																						<div class="col-md-8">
+																							<img src="img/digital_signage-2.jpg" class="img-rounded" style="background-size:cover; !important;background-repeat:no-repeat !important;width:100%;margin-top: 0px;">
+																							</div>
+																						</div>
+																					</section>
+																					<section class="benefits">
+																						<h3 class="text-center" style="margin-top:40px;margin-bottom:20px;" >The Benefits of Digital Signage</h3>
+																						<div class="row" style="margin-left:-1.5%;">
+																							<div class="col-md-4">
+																								<article class="benefits__item">
+																									<div class="benefits__itemContainer">
+																										<img class="benefits__img img-rounded" src="img/Runtime.jpg" alt="DigitalSignage/DigiDarpan Features" title="Digital Signage by Razorbee Online Solutions Pvt Ltd Features">
+																											<div class="benefits__copy">
+																												<h3 class="benefits__heading">Minimizes perceived wait time..</h3>
+																												<p style="font-size:16px;text-align:left;margin-top:-40px;margin-left:20px;" class="benefits__body bb">One of the best things you can do to improve customer experience is to keep them entertained. A digital screen gives them something to do-it’s a lot less annoying to wait in line if you’ve got something to watch. As a result, perceived wait time drops.</p>
+																											</div>
+																										</div>
+																									</article>
+																								</div>
+																								<div class="col-md-4">
+																									<article class="benefits__item">
+																										<div class="benefits__itemContainer">
+																											<img class="benefits__img img-rounded" src="img/TimeDigitalSignage.jpg" alt="DigitalSignage/DigiDarpan Features" title="Digital Signage by Razorbee Online Solutions Pvt Ltd Features">
+																												<div class="benefits__copy">
+																													<h3 class="benefits__heading">You can run relevant ads depending on the time of day or day of the week.</h3>
+																													<p style="font-size:16px;text-align:left; margin-top:-40px; margin-left:20px;" class="benefits__body">Breakfast ads during breakfast if you’re a restaurant franchise, for example. Alternatively, if you have a retail clothing franchise, you might run ads featuring rain gear on rainy days and sunglasses on sunny ones.</p>
+																												</div>
+																											</div>
+																										</article>
+																									</div>
+																									<div class="col-md-4">
+																										<article class="benefits__item">
+																											<div class="benefits__itemContainer">
+																												<img class="benefits__img img-rounded" src="img/DigitalSignage5.jpg" alt="DigitalSignage/DigiDarpan Features" title="Digital Signage by Razorbee Online Solutions Pvt Ltd Features">
+																													<div class="benefits__copy ">
+																														<h5 class="benefits__heading">Promoting hospital services,Employee coordination and communication</h5>
+																														<p style="font-size:16px;text-align:left;margin-top:-40px; margin-left:20px;" class="benefits__body">With a display network at the hands of every patient, visitor or medical attendant, it is a lot easier to inform them about the services offered in your organization, in particular when you can match the message to the location.</p>
+																													</div>
+																												</div>
+																											</article>
+																										</div>
+																									</div>
+																								</section>
+																								<header class="sect-head-container testimonials-lead-in">
+																									<div class="sect-head">
+																										<div class="leadin__container">
+																											<h2 class="leadinHeading">What customers are saying</h2>
+																											<h4 class="leadinSubheading">
   			    See what RazorBee's current customers are saying about the advantages produced by RazorBee's Digital signage called DigiDarpan.
   		    </h4>
-        </div>
-	    </div>
-    </header>
-
-	<div class="about_testimonials__wrapper">
-		<article class="sect-container">
-
-			<div class="testimonial-wrapper">
-
-					<section class="testimonial__quote">
-				      <p></p>
-				      <p class="leadin__quote">“DigiDarpan DigitalSignage signs have helped us  eliminate the need for printing, hence reducing the cost of printing materials like brochures, menu boards, traditional billboards and large posters and improve our average growth financially.” </p>
-				      <p></p>
-
-				      <p>
-					      <b>Mr.Arun Mishra </b>
-					      <br>
+																										</div>
+																									</div>
+																								</header>
+																								<div class="about_testimonials__wrapper">
+																									<article class="sect-container">
+																										<div class="testimonial-wrapper">
+																											<section class="testimonial__quote">
+																												<p></p>
+																												<p class="leadin__quote">“DigiDarpan DigitalSignage signs have helped us  eliminate the need for printing, hence reducing the cost of printing materials like brochures, menu boards, traditional billboards and large posters and improve our average growth financially.” </p>
+																												<p></p>
+																												<p>
+																													<b>Mr.Arun Mishra </b>
+																													<br>
 					      Administrator
-					      <br>
-					      Monrow Marketing Ltd.
-				      </p>
-				    </section>
-            <div class="testimonial__quoteImg">
-              <div class="testimonial__line"></div>
-              <span class="testimonial__quotesIcon"></span>
-              <div class="testimonial__line"></div>
-            </div>
-
-					<section class="testimonial__quote">
-				      <p></p>
-				      <p class="leadin__quote">“Helped us in promoting the facilities provided by our Hospital,timing of various checkup , timings of Doctors and Different working sectors along with there locative information was displayed which was appreciated by the visitors and OPD's .”</p>
-              <p></p>
-				      <p>
-					      <b>PA.Ramnath</b>
-					      <br>
+					      
+																														<br>
+				      
+																														</p>
+																													</section>
+																													<div class="testimonial__quoteImg">
+																														<div class="testimonial__line"></div>
+																														<span class="testimonial__quotesIcon"></span>
+																														<div class="testimonial__line"></div>
+																													</div>
+																													<section class="testimonial__quote">
+																														<p></p>
+																														<p class="leadin__quote">“Helped us in promoting the facilities provided by our Hospital,timing of various checkup , timings of Doctors and Different working sectors along with there locative information was displayed which was appreciated by the visitors and OPD's .”</p>
+																														<p></p>
+																														<p>
+																															<b>PA.Ramnath</b>
+																															<br>
 					      Practicing Administrator
-					      <br>
-					      Global Health Care.
-				      </p>
-				    </section>
-            <div class="testimonial__quoteImg">
-              <div class="testimonial__line"></div>
-              <span class="testimonial__quotesIcon"></span>
-              <div class="testimonial__line"></div>
-            </div>
-
-			</div>
-		</article>
-	</div>
-
-  <article class="section-solutions">
-
-		    <header class="sect-head-container">
-			    <div class="sect-head">
-
-			            <h2 class="section-solutions__heading">Improving more than just Workplace Communication</h2>
-
-			    </div>
-			</header>
-
-		    <div class="solution-row">
-
-		      <div class="solution-statements">
-		        <figure>
-		          <a href="#"><img src="./asset/marlin-quick-start-icon-morale.svg" height="100px" width="150px" alt="Enterprise Digital Signage Solutions"></a>
-		        </figure>
-		        <figcaption>
-		            <a href="#"><h4 data-mh="headings" style="height: 57px;">Boost Engagement and Morale</h4></a>
-		        </figcaption>
-		      </div>
-
-		      <div class="solution-statements">
-		        <figure>
-		          <a href="#"><img src="./asset/marlin-quick-start-icon-productivity.svg" height="100px" width="150px" alt="Enterprise Digital Signage Solutions"></a>
-		        </figure>
-		        <figcaption>
-		         <a href="#"><h4 data-mh="headings" style="height: 57px;">Increase Employee Productivity</h4></a>
-		        </figcaption>
-		      </div>
-
-		      <div class="solution-statements">
-		        <figure>
-		          <a href="#"><img src="./asset/marlin-quick-start-icon-safety.svg" height="100px" width="150px" alt="Enterprise Digital Signage Solutions"></a>
-		        </figure>
-		        <figcaption>
-		         <a href="#"><h4 data-mh="headings" style="height: 57px;">Improve Workplace Safety</h4></a>
-		        </figcaption>
-		      </div>
-		    </div>
-
-    </article>
-
-
-
-
-	<article class="happy-customers hidden-xs hidden-sm"  style="background-color: #F5F6F9 !important;">
-		<h2>Our Satisfied Clients</h2>
-	    <p>Check out the companies we have transformed below or contact us to learn more.</p>
-	    <div class="row hidden-md">
-				<div class="col-lg-4 col-md-3 col-sm-4 col-xs-4">
-	     <img src="img/invest365.png" alt="Safeway" style="height: 80px;width: 175px;">
-		 </div>
-		 <div class="col-lg-4 col-md-3 col-sm-4 col-xs-4">
-		<img src="img/constructions.png" alt="Safeway" style="height: 80px;width: 175px;">
-	</div>
-	<div class="col-lg-4 col-md-3 col-sm-4 col-xs-4">
- <img src="img/nexgen.png" alt="Safeway" style="height: 80px;width: 175px;">
-</div>
-</div>
-<div class="row hidden-md" style="margin-top:30px;">
-	<div class="col-lg-4 col-md-3 col-sm-4 col-xs-4">
- <img src="img/caree4sure.png" alt="Safeway" style="height: 80px ;width: 175px;">
-</div>
-<div class="col-lg-4 col-md-3 col-sm-4 col-xs-4">
-<img src="img/bhagawati.png" alt="Safeway" style="height: 80px;width: 175px;">
-</div>
-<div class="col-lg-4 col-md-3 col-sm-4 col-xs-4">
-<img src="img/happywandered.png" alt="Safeway" style="height: 80px ;width: 175px;">
-</div>
-</div>
-<div class="row hidden-lg hidden-sm hidden-xs ipadrow">
-	<div class="col-lg-4 col-md-2 col-sm-4 col-xs-4">
- <img src="img/invest365.png" alt="Safeway" style="height: 80px;width: 175px;">
-</div>
-<div class="col-lg-4 col-md-2 col-sm-4 col-xs-4">
-<img src="img/constructions.png" alt="Safeway" style="height: 80px;width: 175px;">
-</div>
-<div class="col-lg-4 col-md-2 col-sm-4 col-xs-4">
-<img src="img/nexgen.png" alt="Safeway" style="height: 80px;width: 175px;">
-</div>
-<div class="col-lg-4 col-md-2 col-sm-4 col-xs-4">
-<img src="img/caree4sure.png" alt="Safeway" style="height: 80px ;width: 175px;">
-</div>
-<div class="col-lg-4 col-md-2 col-sm-4 col-xs-4">
-<img src="img/bhagawati.png" alt="Safeway" style="height: 80px;width: 175px;">
-</div>
-<div class="col-lg-4 col-md-2 col-sm-4 col-xs-4">
-<img src="img/happywandered.png" alt="Safeway" style="height: 80px ;width: 175px;">
-</div>
-</div>
-</article><article class="happy-customers hidden-lg hidden-md visible-xs"  style="background-color: #F5F6F9 !important;">
-			<h2>Still not convinced?</h2>
-		    <p>Check out the companies we have transformed below or contact us to learn more.</p>
-		<section class="section-white">
-  <div class="container">
-
-    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-      <!-- Indicators -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-				<li data-target="#carousel-example-generic" data-slide-to="3"></li>
-				<li data-target="#carousel-example-generic" data-slide-to="4"></li>
-				<li data-target="#carousel-example-generic" data-slide-to="5"></li>
-      </ol>
-
-      <!-- Wrapper for slides -->
-    <div class="carousel-inner">
-        <div class="item active">
-      <img src="img/nexgen.png" alt="nexgen" style="height: 100px !important;width: 200px;margin-left:50px;">
-        </div>
-        <div class="item">
-          <img src="img/invest365.png" alt="invest365" style="height: 100px !important;width: 200px;margin-left:50px;">
-        </div>
-        <div class="item">
-          <img src="img/happywandered.png" alt="happywandered" style="height: 100px !important;width: 200px;margin-left:50px;">
-        </div>
-				<div class="item">
-          <img src="img/bhagawati.png" alt="bhagawati" style="height: 100px !important;width: 200px;margin-left:50px;">
-        </div>
-				<div class="item">
-          <img src="img/caree4sure.png" alt="caree4sure" style="height: 100px !important;width: 200px;margin-left:50px;">
-        </div>
-				<div class="item">
-          <img src="img/constructions.png" alt="constructions" style="height: 100px !important;width: 200px;margin-left:50px;">
-        </div>
-      </div>
-
-      <!-- Controls -->
-      <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-      </a>
-      <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-      </a>
-    </div>
-
-  </div>
-</section></article>
-<div class="contact-panel" id="contact">
-  <div class="contact-panel__header">
-    <h2 class="contact-panel__title">
+					      
+																																<br>
+				      
+																																</p>
+																															</section>
+																															<div class="testimonial__quoteImg">
+																																<div class="testimonial__line"></div>
+																																<span class="testimonial__quotesIcon"></span>
+																																<div class="testimonial__line"></div>
+																															</div>
+																														</div>
+																													</article>
+																												</div>
+																												<article class="section-solutions">
+																													<header class="sect-head-container">
+																														<div class="sect-head">
+																															<h2 class="section-solutions__heading">Improving more than just Workplace Communication</h2>
+																														</div>
+																													</header>
+																													<div class="solution-row">
+																														<div class="solution-statements">
+																															<figure>
+																																<a href="#">
+																																	<img src="./asset/marlin-quick-start-icon-morale.svg" height="100px" width="150px" alt="Enterprise Digital Signage Solutions">
+																																	</a>
+																																</figure>
+																																<figcaption>
+																																	<a href="#">
+																																		<h4 data-mh="headings" style="height: 57px;">Boost Engagement and Morale</h4>
+																																	</a>
+																																</figcaption>
+																															</div>
+																															<div class="solution-statements">
+																																<figure>
+																																	<a href="#">
+																																		<img src="./asset/marlin-quick-start-icon-productivity.svg" height="100px" width="150px" alt="Enterprise Digital Signage Solutions">
+																																		</a>
+																																	</figure>
+																																	<figcaption>
+																																		<a href="#">
+																																			<h4 data-mh="headings" style="height: 57px;">Increase Employee Productivity</h4>
+																																		</a>
+																																	</figcaption>
+																																</div>
+																																<div class="solution-statements">
+																																	<figure>
+																																		<a href="#">
+																																			<img src="./asset/marlin-quick-start-icon-safety.svg" height="100px" width="150px" alt="Enterprise Digital Signage Solutions">
+																																			</a>
+																																		</figure>
+																																		<figcaption>
+																																			<a href="#">
+																																				<h4 data-mh="headings" style="height: 57px;">Improve Workplace Safety</h4>
+																																			</a>
+																																		</figcaption>
+																																	</div>
+																																</div>
+																															</article>
+																															<article class="happy-customers hidden-xs hidden-sm"  style="background-color: #F5F6F9 !important;">
+																																<h2>Our Satisfied Clients</h2>
+																																<p>Check out the companies we have transformed below or contact us to learn more.</p>
+																																<div class="row hidden-md">
+																																	<div class="col-lg-4 col-md-3 col-sm-4 col-xs-4">
+																																		<img src="img/invest365.png" alt="Safeway" style="height: 80px;width: 175px;">
+																																		</div>
+																																		<div class="col-lg-4 col-md-3 col-sm-4 col-xs-4">
+																																			<img src="img/constructions.png" alt="Safeway" style="height: 80px;width: 175px;">
+																																			</div>
+																																			<div class="col-lg-4 col-md-3 col-sm-4 col-xs-4">
+																																				<img src="img/nexgen.png" alt="Safeway" style="height: 80px;width: 175px;">
+																																				</div>
+																																			</div>
+																																			<div class="row hidden-md" style="margin-top:30px;">
+																																				<div class="col-lg-4 col-md-3 col-sm-4 col-xs-4">
+																																					<img src="img/caree4sure.png" alt="Safeway" style="height: 80px ;width: 175px;">
+																																					</div>
+																																					<div class="col-lg-4 col-md-3 col-sm-4 col-xs-4">
+																																						<img src="img/bhagawati.png" alt="Safeway" style="height: 80px;width: 175px;">
+																																						</div>
+																																						<div class="col-lg-4 col-md-3 col-sm-4 col-xs-4">
+																																							<img src="img/happywandered.png" alt="Safeway" style="height: 80px ;width: 175px;">
+																																							</div>
+																																						</div>
+																																						<div class="row hidden-lg hidden-sm hidden-xs ipadrow">
+																																							<div class="col-lg-4 col-md-2 col-sm-4 col-xs-4">
+																																								<img src="img/invest365.png" alt="Safeway" style="height: 80px;width: 175px;">
+																																								</div>
+																																								<div class="col-lg-4 col-md-2 col-sm-4 col-xs-4">
+																																									<img src="img/constructions.png" alt="Safeway" style="height: 80px;width: 175px;">
+																																									</div>
+																																									<div class="col-lg-4 col-md-2 col-sm-4 col-xs-4">
+																																										<img src="img/nexgen.png" alt="Safeway" style="height: 80px;width: 175px;">
+																																										</div>
+																																										<div class="col-lg-4 col-md-2 col-sm-4 col-xs-4">
+																																											<img src="img/caree4sure.png" alt="Safeway" style="height: 80px ;width: 175px;">
+																																											</div>
+																																											<div class="col-lg-4 col-md-2 col-sm-4 col-xs-4">
+																																												<img src="img/bhagawati.png" alt="Safeway" style="height: 80px;width: 175px;">
+																																												</div>
+																																												<div class="col-lg-4 col-md-2 col-sm-4 col-xs-4">
+																																													<img src="img/happywandered.png" alt="Safeway" style="height: 80px ;width: 175px;">
+																																													</div>
+																																												</div>
+																																											</article>
+																																											<article class="happy-customers hidden-lg hidden-md visible-xs"  style="background-color: #F5F6F9 !important;">
+																																												<h2>Still not convinced?</h2>
+																																												<p>Check out the companies we have transformed below or contact us to learn more.</p>
+																																												<section class="section-white">
+																																													<div class="container">
+																																														<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+																																															<!-- Indicators -->
+																																															<ol class="carousel-indicators">
+																																																<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+																																																<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+																																																<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+																																																<li data-target="#carousel-example-generic" data-slide-to="3"></li>
+																																																<li data-target="#carousel-example-generic" data-slide-to="4"></li>
+																																																<li data-target="#carousel-example-generic" data-slide-to="5"></li>
+																																															</ol>
+																																															<!-- Wrapper for slides -->
+																																															<div class="carousel-inner">
+																																																<div class="item active">
+																																																	<img src="img/nexgen.png" alt="nexgen" style="height: 100px !important;width: 200px;margin-left:50px;">
+																																																	</div>
+																																																	<div class="item">
+																																																		<img src="img/invest365.png" alt="invest365" style="height: 100px !important;width: 200px;margin-left:50px;">
+																																																		</div>
+																																																		<div class="item">
+																																																			<img src="img/happywandered.png" alt="happywandered" style="height: 100px !important;width: 200px;margin-left:50px;">
+																																																			</div>
+																																																			<div class="item">
+																																																				<img src="img/bhagawati.png" alt="bhagawati" style="height: 100px !important;width: 200px;margin-left:50px;">
+																																																				</div>
+																																																				<div class="item">
+																																																					<img src="img/caree4sure.png" alt="caree4sure" style="height: 100px !important;width: 200px;margin-left:50px;">
+																																																					</div>
+																																																					<div class="item">
+																																																						<img src="img/constructions.png" alt="constructions" style="height: 100px !important;width: 200px;margin-left:50px;">
+																																																						</div>
+																																																					</div>
+																																																					<!-- Controls -->
+																																																					<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+																																																						<span class="glyphicon glyphicon-chevron-left"></span>
+																																																					</a>
+																																																					<a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+																																																						<span class="glyphicon glyphicon-chevron-right"></span>
+																																																					</a>
+																																																				</div>
+																																																			</div>
+																																																		</section>
+																																																	</article>
+																																																	<div class="contact-panel" id="contact">
+																																																		<div class="contact-panel__header">
+																																																			<h2 class="contact-panel__title">
       How can we help improve your workplace?
     </h2>
-    <p class="contact-panel__subtitle">
+																																																			<p class="contact-panel__subtitle">
       Get in touch for a free demo!
     </p>
-  </div>
-</br>
-</br>
+																																																		</div>
+																																																	</br>
+																																																</br>
+																																																<div class="contact-panel__form">
+																																																	<form id="b218decf73a7f23577eef1e5b53fbef88be92af368b5" method="post" action="http://digidarpan.com/" >
+																																																		<div class="hiddenFields">
+																																																			<input type="hidden" name="ACT" value="32">
+																																																				<input type="hidden" name="subUri" value="workplace-digital-signage-solution2">
+																																																					<input type="hidden" name="formId" value="gated_asset_form">
+																																																						<input type="hidden" name="site_id" value="1">
+																																																							<input type="hidden" name="csrf_token" value="0ec01f3ba229e08f64573c31c02eb29d3be20e29">
+																																																							</div>
+																																																							<input type="hidden" name="lead_source" value="web_contact_ppc">
+																																																								<input type="hidden" name="retURLOverride" value="">
+																																																									<div class="row" >
+																																																										<div class="col-md-6">
+																																																											<h3 style="color:white;">
+																																																												<u>
+																																																													<strong>About Us</strong>
+																																																												</u>
+																																																											</h3>
+																																																											<p style="font-size:20px;text-align:left;color:white;">
+																																																												<strong>Razorbee</strong> is a software technology company that specializes in providing digital signage solutions and services for Hospitals.
 
-  <div class="contact-panel__form">
-  <form id="b218decf73a7f23577eef1e5b53fbef88be92af368b5" method="post" action="http://digidarpan.com/" >
-<div class="hiddenFields">
-<input type="hidden" name="ACT" value="32">
-<input type="hidden" name="subUri" value="workplace-digital-signage-solution2">
-<input type="hidden" name="formId" value="gated_asset_form">
-<input type="hidden" name="site_id" value="1">
-<input type="hidden" name="csrf_token" value="0ec01f3ba229e08f64573c31c02eb29d3be20e29">
-</div>
-
-
-    <input type="hidden" name="lead_source" value="web_contact_ppc">
-    <input type="hidden" name="retURLOverride" value="">
-	<div class="row" >
-		<div class="col-md-6">
-<h3 style="color:white;"><u><strong>About Us</strong></u></h3>
-      	      <p style="font-size:20px;text-align:left;color:white;">
-								<strong>Razorbee</strong> is a software technology company that specializes in providing digital signage solutions and services for Hospitals.
-</p>
-<p style="font-size:16px;text-align:left;color:white;">We are a group of engineers with over all 25+ together years of experience in technology
+																																																											</p>
+																																																											<p style="font-size:16px;text-align:left;color:white;">We are a group of engineers with over all 25+ together years of experience in technology
 and providing successful solutions and services to IT sector.</p>
-		</div>
-	<div class="col-md-6">
-		<div class="row">
-		<div class="col-lg-12">
-		<h5 style="color:White;margin-bottom:15px;"><strong><u>Address</u></strong></h5>
-				<div class="textwidget" style="border:2px dashed white;padding-left:5px;">
-			<p style="font-size:25px;color:white;">Razorbee Online Solutions Pvt Ltd</p>
-	<p style="color:white;font-size:20px;">
+																																																										</div>
+																																																										<div class="col-md-6">
+																																																											<div class="row">
+																																																												<div class="col-lg-12">
+																																																													<h5 style="color:White;margin-bottom:15px;">
+																																																														<strong>
+																																																															<u>Address</u>
+																																																														</strong>
+																																																													</h5>
+																																																													<div class="textwidget" style="border:2px dashed white;padding-left:5px;">
+																																																														<p style="font-size:25px;color:white;">Razorbee Online Solutions Pvt Ltd</p>
+																																																														<p style="color:white;font-size:20px;">
 	#21, 1st floor, Beside Anjaneya Swamy temple street,
 
 	Adugodi, Koramangala 8th block,Bangalore: 560076
 	karnataka, India</p>
-	</div>
-		</div>
-	</div>
-  <!--  <div class="row" style="margin-top:20px;">
-      <div class="col-lg-6" style="width:100%;">
-				<h5 style="color:White;margin-bottom:15px;"><strong><u>Contact-Us</u></strong></h5>
-        <label for="name">Name:*</label>
-        <input name="name" id="name" required="" style="width:100%;" >
-      </div>
-
-    </div>
-    <div class="row" style="margin-top:15px;">
-      <div class="col-md-3">
-        <label for="phone">Phone:*</label>
-        <input type="text" name="phone" id="phone" required="" >
-      </div>
-	  <div class="col-md-3 col-md-offset-4">
-        <label for="email">Email:*</label>
-        <input type="text" name="email" id="email" required="">
-      </div>
-	  </div>
-	  <div class="row" style="margin-top:15px;">
-			  <div class="col-lg-6" style="width:100%;">
-        <label for="message">Message:</label>
-        <textarea name="description" id="message"></textarea>
-			</div>
-	</div>
-      <button type="submit" class="contact-panel__button">Submit</button>
-  </div></form>-->
-  </div>
-
-</div>
-  <!-- Grab Google CDN's jQuery, fall back to local if offline -->
-  <!-- 2.0 for modern browsers, 1.10 for .oldie -->
+																																																													</div>
+																																																												</div>
+																																																											</div>
+																																																											<!--  <div class="row" style="margin-top:20px;"><div class="col-lg-6" style="width:100%;"><h5 style="color:White;margin-bottom:15px;"><strong><u>Contact-Us</u></strong></h5><label for="name">Name:*</label><input name="name" id="name" required="" style="width:100%;" ></div></div><div class="row" style="margin-top:15px;"><div class="col-md-3"><label for="phone">Phone:*</label><input type="text" name="phone" id="phone" required="" ></div><div class="col-md-3 col-md-offset-4"><label for="email">Email:*</label><input type="text" name="email" id="email" required=""></div></div><div class="row" style="margin-top:15px;"><div class="col-lg-6" style="width:100%;"><label for="message">Message:</label><textarea name="description" id="message"></textarea></div></div><button type="submit" class="contact-panel__button">Submit</button></div></form>-->
+																																																										</div>
+																																																									</div>
+																																																									<!-- Grab Google CDN's jQuery, fall back to local if offline -->
+																																																									<!-- 2.0 for modern browsers, 1.10 for .oldie -->
