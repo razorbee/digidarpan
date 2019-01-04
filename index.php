@@ -3142,7 +3142,7 @@
 						<div class="col-sm-3 "></div>
 						<div class="col-sm-6 ">
 							<div class="copyright-text">
-								<p>CopyRight © 2018 </p>
+								<p>CopyRight © 2019 </p>
 							</div>
 						</div>
 						
