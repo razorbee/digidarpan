@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- saved from url=(0147)https://www.themarlincompany.com/workplace-digital-signage-solution2?_vsrefdom=aw_ppc&gclid=EAIaIQobChMIkoSNlJSg1wIVRUOGCh3SggaMEAAYASAAEgKn8PD_BwE -->
-<html class=" gumby-no-touch js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" itemscope="" itemtype="http://schema.org/Product">
+<html class=" gumby-no-touch js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" itemscope="" itemtype="https://schema.org/Product">
 	<!--
 	<![endif]-->
 	<head>
@@ -113,10 +113,10 @@ vid.load();
 																			<a href="why.php" style="height: 50px;">Where its Used</a>
 																		</li>
 																		<li class="active">
-																			<a href="http://admin.digidarpan.com/login" style="height: 50px;">Sign-in/Login</a>
+																			<a href="https://admin.digidarpan.com/login" style="height: 50px;">Sign-in/Login</a>
 																		</li>
 																		<li class="active">
-																			<a href="http://admin.digidarpan.com/signup" style="height: 50px;">Sign-up</a>
+																			<a href="https://admin.digidarpan.com/signup" style="height: 50px;">Sign-up</a>
 																		</li>
 																	</ul>
 																</li>
@@ -1362,7 +1362,7 @@ Razorbee’s  Digital signage solution is leading the way to tell your messages 
 																																																	</br>
 																																																</br>
 																																																<div class="contact-panel__form">
-																																																	<form id="b218decf73a7f23577eef1e5b53fbef88be92af368b5" method="post" action="http://digidarpan.com/" >
+																																																	<form id="b218decf73a7f23577eef1e5b53fbef88be92af368b5" method="post" action="https://digidarpan.com/" >
 																																																		<div class="hiddenFields">
 																																																			<input type="hidden" name="ACT" value="32">
 																																																				<input type="hidden" name="subUri" value="workplace-digital-signage-solution2">
